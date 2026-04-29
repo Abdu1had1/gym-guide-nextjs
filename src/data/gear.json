@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Barbell",
+    "slug": "barbell",
+    "category": "free-weights",
+    "description": "A long metal bar used with weight plates for compound lifts such as squats, deadlifts, and bench press.",
+    "typicalWeight": "20 kg (standard Olympic bar)",
+    "usedFor": ["squats", "deadlifts", "bench press", "overhead press", "rows"],
+    "beginner_friendly": false,
+    "image": "/images/gear/barbell.jpg"
+  },
+  {
+    "name": "Dumbbells",
+    "slug": "dumbbells",
+    "category": "free-weights",
+    "description": "Short hand-held weights available in fixed or adjustable increments, suitable for unilateral and bilateral exercises.",
+    "typicalWeight": "2 kg – 50 kg per dumbbell",
+    "usedFor": ["curls", "lunges", "Romanian deadlifts", "shoulder press", "lateral raises"],
+    "beginner_friendly": true,
+    "image": "/images/gear/dumbbells.jpg"
+  },
+  {
+    "name": "Resistance Bands",
+    "slug": "resistance-bands",
+    "category": "accessories",
+    "description": "Elastic bands that add progressive resistance through a range of motion; ideal for warm-ups, mobility work, and assistance exercises.",
+    "typicalWeight": "5 kg – 45 kg resistance (varies by band thickness)",
+    "usedFor": ["glute activation", "pull-up assistance", "mobility drills", "banded squats"],
+    "beginner_friendly": true,
+    "image": "/images/gear/resistance-bands.jpg"
+  },
+  {
+    "name": "Pull-Up Bar",
+    "slug": "pull-up-bar",
+    "category": "bodyweight",
+    "description": "A horizontal bar mounted in a doorframe or on a rack used for pull-ups, chin-ups, and hanging core exercises.",
+    "typicalWeight": null,
+    "usedFor": ["pull-ups", "chin-ups", "hanging leg raises", "dead hangs"],
+    "beginner_friendly": true,
+    "image": "/images/gear/pull-up-bar.jpg"
+  },
+  {
+    "name": "Kettlebell",
+    "slug": "kettlebell",
+    "category": "free-weights",
+    "description": "A cast-iron ball with a handle used for dynamic, ballistic movements that combine strength and cardio.",
+    "typicalWeight": "8 kg – 48 kg",
+    "usedFor": ["swings", "Turkish get-ups", "goblet squats", "snatches"],
+    "beginner_friendly": true,
+    "image": "/images/gear/kettlebell.jpg"
+  },
+  {
+    "name": "Squat Rack",
+    "slug": "squat-rack",
+    "category": "machines",
+    "description": "A steel frame with adjustable safety bars used to safely hold a loaded barbell for squats and overhead pressing.",
+    "typicalWeight": null,
+    "usedFor": ["barbell squats", "overhead press", "rack pulls", "barbell bench press"],
+    "beginner_friendly": false,
+    "image": "/images/gear/squat-rack.jpg"
+  }
+]

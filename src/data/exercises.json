@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Barbell Back Squat",
+    "slug": "barbell-back-squat",
+    "muscles": ["quadriceps", "glutes", "hamstrings", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["barbell", "squat rack"],
+    "instructions": [
+      "Stand with feet shoulder-width apart under a loaded barbell resting on your upper traps.",
+      "Unrack the bar and step back, keeping your chest up and core braced.",
+      "Lower your body by bending at the knees and hips until thighs are parallel to the floor.",
+      "Drive through your heels to return to the starting position."
+    ],
+    "tips": [
+      "Keep your knees tracking over your toes throughout the movement.",
+      "Maintain a neutral spine — avoid rounding the lower back.",
+      "Brace your core before descending to protect the spine."
+    ]
+  },
+  {
+    "name": "Pull-Up",
+    "slug": "pull-up",
+    "muscles": ["latissimus dorsi", "biceps", "rear deltoids", "core"],
+    "difficulty": "intermediate",
+    "equipment": ["pull-up bar"],
+    "instructions": [
+      "Grip the bar with hands slightly wider than shoulder-width, palms facing away.",
+      "Hang at full arm extension with shoulders engaged.",
+      "Pull your chest toward the bar by driving elbows down and back.",
+      "Lower yourself with control back to the starting position."
+    ],
+    "tips": [
+      "Avoid swinging or kipping for strict strength gains.",
+      "Squeeze the bar hard to engage more upper-body muscles.",
+      "Cross your ankles and keep your legs still for better core engagement."
+    ]
+  },
+  {
+    "name": "Dumbbell Romanian Deadlift",
+    "slug": "dumbbell-romanian-deadlift",
+    "muscles": ["hamstrings", "glutes", "lower back", "core"],
+    "difficulty": "beginner",
+    "equipment": ["dumbbells"],
+    "instructions": [
+      "Stand with feet hip-width apart, holding a dumbbell in each hand in front of your thighs.",
+      "Hinge at the hips, pushing them back while lowering the dumbbells along your legs.",
+      "Lower until you feel a stretch in your hamstrings, keeping your back flat.",
+      "Drive your hips forward to return to the starting position."
+    ],
+    "tips": [
+      "Keep the dumbbells close to your body throughout the movement.",
+      "Do not round the lower back — maintain a neutral spine.",
+      "Control the descent for maximum hamstring activation."
+    ]
+  },
+  {
+    "name": "Push-Up",
+    "slug": "push-up",
+    "muscles": ["pectorals", "triceps", "anterior deltoids", "core"],
+    "difficulty": "beginner",
+    "equipment": [],
+    "instructions": [
+      "Start in a high plank position with hands just outside shoulder-width.",
+      "Lower your chest toward the floor by bending your elbows at roughly 45 degrees.",
+      "Stop just before your chest touches the ground.",
+      "Press back up to the starting position with arms fully extended."
+    ],
+    "tips": [
+      "Keep your body in a straight line from head to heels — no sagging hips.",
+      "Tuck your elbows slightly to protect your shoulder joints.",
+      "Breathe in on the way down, out on the way up."
+    ]
+  },
+  {
+    "name": "Plank",
+    "slug": "plank",
+    "muscles": ["core", "transverse abdominis", "shoulders", "glutes"],
+    "difficulty": "beginner",
+    "equipment": [],
+    "instructions": [
+      "Place your forearms on the floor with elbows directly below your shoulders.",
+      "Extend your legs behind you, resting on your toes.",
+      "Keep your body in a straight line from head to heels.",
+      "Hold the position while breathing steadily."
+    ],
+    "tips": [
+      "Squeeze your glutes and core to prevent your hips from rising or dropping.",
+      "Keep your neck neutral — don't look up or let your head hang.",
+      "Start with 20-second holds and progress gradually."
+    ]
+  }
+]
