@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Full Body Beginner",
+    "slug": "full-body-beginner",
+    "description": "A three-day full-body program for those new to resistance training. Covers all major muscle groups with compound movements.",
+    "difficulty": "beginner",
+    "daysPerWeek": 3,
+    "durationWeeks": 8,
+    "goal": "build foundation strength",
+    "days": [
+      {
+        "day": "Monday",
+        "label": "Full Body A",
+        "exercises": [
+          { "exerciseSlug": "barbell-back-squat", "sets": 3, "reps": "8-10", "rest": "90s" },
+          { "exerciseSlug": "push-up", "sets": 3, "reps": "8-12", "rest": "60s" },
+          { "exerciseSlug": "dumbbell-romanian-deadlift", "sets": 3, "reps": "10-12", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "30s hold", "rest": "45s" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "label": "Full Body B",
+        "exercises": [
+          { "exerciseSlug": "dumbbell-romanian-deadlift", "sets": 3, "reps": "10-12", "rest": "90s" },
+          { "exerciseSlug": "pull-up", "sets": 3, "reps": "as many as possible", "rest": "90s" },
+          { "exerciseSlug": "barbell-back-squat", "sets": 3, "reps": "8-10", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "30s hold", "rest": "45s" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "label": "Full Body C",
+        "exercises": [
+          { "exerciseSlug": "push-up", "sets": 4, "reps": "10-15", "rest": "60s" },
+          { "exerciseSlug": "barbell-back-squat", "sets": 3, "reps": "10", "rest": "90s" },
+          { "exerciseSlug": "pull-up", "sets": 3, "reps": "as many as possible", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "45s hold", "rest": "45s" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Upper / Lower Split",
+    "slug": "upper-lower-split",
+    "description": "A four-day program alternating upper and lower body sessions for intermediate lifters looking to increase volume and specialization.",
+    "difficulty": "intermediate",
+    "daysPerWeek": 4,
+    "durationWeeks": 12,
+    "goal": "hypertrophy and strength",
+    "days": [
+      {
+        "day": "Monday",
+        "label": "Upper A",
+        "exercises": [
+          { "exerciseSlug": "pull-up", "sets": 4, "reps": "6-8", "rest": "90s" },
+          { "exerciseSlug": "push-up", "sets": 4, "reps": "12-15", "rest": "60s" }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "label": "Lower A",
+        "exercises": [
+          { "exerciseSlug": "barbell-back-squat", "sets": 4, "reps": "6-8", "rest": "120s" },
+          { "exerciseSlug": "dumbbell-romanian-deadlift", "sets": 3, "reps": "10-12", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "45s hold", "rest": "45s" }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "label": "Upper B",
+        "exercises": [
+          { "exerciseSlug": "push-up", "sets": 4, "reps": "10-12", "rest": "60s" },
+          { "exerciseSlug": "pull-up", "sets": 4, "reps": "as many as possible", "rest": "90s" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "label": "Lower B",
+        "exercises": [
+          { "exerciseSlug": "dumbbell-romanian-deadlift", "sets": 4, "reps": "8-10", "rest": "90s" },
+          { "exerciseSlug": "barbell-back-squat", "sets": 4, "reps": "10-12", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "60s hold", "rest": "45s" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bodyweight Only",
+    "slug": "bodyweight-only",
+    "description": "A no-equipment program using only bodyweight exercises. Suitable for home workouts or travel.",
+    "difficulty": "beginner",
+    "daysPerWeek": 3,
+    "durationWeeks": 6,
+    "goal": "general fitness and mobility",
+    "days": [
+      {
+        "day": "Monday",
+        "label": "Push & Core",
+        "exercises": [
+          { "exerciseSlug": "push-up", "sets": 4, "reps": "10-15", "rest": "60s" },
+          { "exerciseSlug": "plank", "sets": 4, "reps": "30s hold", "rest": "30s" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "label": "Pull & Legs",
+        "exercises": [
+          { "exerciseSlug": "pull-up", "sets": 3, "reps": "as many as possible", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "30s hold", "rest": "30s" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "label": "Full Body",
+        "exercises": [
+          { "exerciseSlug": "push-up", "sets": 3, "reps": "12-15", "rest": "60s" },
+          { "exerciseSlug": "pull-up", "sets": 3, "reps": "as many as possible", "rest": "90s" },
+          { "exerciseSlug": "plank", "sets": 3, "reps": "45s hold", "rest": "30s" }
+        ]
+      }
+    ]
+  }
+]
